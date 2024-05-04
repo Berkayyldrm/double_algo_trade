@@ -1,0 +1,230 @@
+04/22/24---18:39:52,679 general INFO Simulation Update Mode Active
+04/22/24---18:39:53,500 general INFO Data Extraction Task Starting
+04/22/24---18:40:47,355 general INFO An error occured for BTCUSDT in data extraction service: '1minutes'
+04/22/24---18:40:47,355 general INFO Data Extraction Task Executed
+04/22/24---18:40:47,355 general INFO Technical Data Task Starting
+04/22/24---18:41:18,82 general INFO Simulation Update Mode Active
+04/22/24---18:41:18,798 general INFO Data Extraction Task Starting
+04/22/24---18:42:14,607 general INFO Simulation Update Mode Active
+04/22/24---18:42:15,282 general INFO Data Extraction Task Starting
+04/22/24---18:43:48,897 general INFO Data Extraction Task Executed
+04/22/24---18:43:48,897 general INFO Technical Data Task Starting
+04/22/24---18:43:49,479 general INFO Technical Data Task Executed
+04/22/24---18:43:49,479 general INFO Simulation Task Starting
+04/22/24---18:43:52,475 general INFO Simulation Task Executed
+04/22/24---19:26:22,205 general INFO Simulation Mode Active
+04/22/24---19:26:22,205 general INFO Simulation Task Starting
+04/22/24---19:28:21,811 general INFO Simulation Mode Active
+04/22/24---19:28:21,811 general INFO Simulation Task Starting
+04/22/24---19:32:15,84 general INFO Simulation Mode Active
+04/22/24---19:32:15,84 general INFO Simulation Task Starting
+04/22/24---19:39:32,829 general INFO Simulation Mode Active
+04/22/24---19:39:32,829 general INFO Simulation Task Starting
+04/22/24---19:40:41,535 general INFO Simulation Mode Active
+04/22/24---19:40:41,536 general INFO Simulation Task Starting
+04/22/24---19:44:20,363 general INFO Simulation Mode Active
+04/22/24---19:44:20,364 general INFO Simulation Task Starting
+04/22/24---19:51:54,399 general INFO Simulation Mode Active
+04/22/24---19:51:54,399 general INFO Simulation Task Starting
+04/22/24---19:52:32,86 general INFO Simulation Mode Active
+04/22/24---19:52:32,86 general INFO Simulation Task Starting
+04/22/24---19:53:20,923 general INFO Simulation Mode Active
+04/22/24---19:53:20,923 general INFO Simulation Task Starting
+05/01/24---21:42:46,751 general INFO Simulation Update Mode Active
+05/01/24---21:42:48,566 general INFO Data Extraction Task Starting
+05/01/24---21:46:22,687 general INFO Simulation Mode Active
+05/01/24---21:46:22,687 general INFO Simulation Task Starting
+05/01/24---21:47:07,260 general INFO Simulation Mode Active
+05/01/24---21:47:07,260 general INFO Simulation Task Starting
+05/01/24---21:48:55,579 general INFO Simulation Update Mode Active
+05/01/24---21:48:56,85 general INFO Data Extraction Task Starting
+05/01/24---21:50:02,339 general INFO Simulation Update Mode Active
+05/01/24---21:50:02,880 general INFO Data Extraction Task Starting
+05/01/24---21:50:07,703 general INFO An error occured for BTCUSDT in data extraction service: 'ConfigManager' object has no attribute 'interval_type_2'
+05/01/24---21:50:07,703 general INFO Data Extraction Task Executed
+05/01/24---21:50:07,703 general INFO Technical Data Task Starting
+05/01/24---21:50:07,708 general INFO An error occured for BTCUSDT in data extraction service: relation "simulation_data.BTCUSDT" does not exist
+LINE 1: SELECT * FROM "simulation_data"."BTCUSDT" ORDER BY "date" AS...
+                      ^
+
+05/01/24---21:50:07,708 general INFO Technical Data Task Executed
+05/01/24---21:50:07,708 general INFO Simulation Task Starting
+05/01/24---21:51:22,210 general INFO Simulation Update Mode Active
+05/01/24---21:51:22,619 general INFO Data Extraction Task Starting
+05/01/24---21:51:32,727 general INFO Data Extraction Task Executed
+05/01/24---21:51:32,727 general INFO Technical Data Task Starting
+05/01/24---21:51:32,836 general INFO Technical Data Task Executed
+05/01/24---21:51:32,836 general INFO Simulation Task Starting
+05/01/24---21:53:20,494 general INFO Simulation Update Mode Active
+05/01/24---21:53:21,97 general INFO Data Extraction Task Starting
+05/01/24---21:55:56,517 general INFO Data Extraction Task Executed
+05/01/24---21:55:56,517 general INFO Technical Data Task Starting
+05/01/24---21:56:00,711 general INFO Technical Data Task Executed
+05/01/24---21:56:00,711 general INFO Simulation Task Starting
+05/01/24---23:01:16,183 general INFO Simulation Mode Active
+05/01/24---23:01:16,183 general INFO Simulation Task Starting
+05/01/24---23:04:55,395 general INFO Simulation Mode Active
+05/01/24---23:04:55,395 general INFO Simulation Task Starting
+05/01/24---23:05:44,960 general INFO Simulation Mode Active
+05/01/24---23:05:44,960 general INFO Simulation Task Starting
+05/01/24---23:06:17,624 general INFO Simulation Mode Active
+05/01/24---23:06:17,624 general INFO Simulation Task Starting
+05/01/24---23:08:22,142 general INFO Simulation Mode Active
+05/01/24---23:08:22,142 general INFO Simulation Task Starting
+05/02/24---00:08:49,511 general INFO Simulation Mode Active
+05/02/24---00:08:49,511 general INFO Simulation Task Starting
+05/02/24---00:12:55,262 general INFO Simulation Mode Active
+05/02/24---00:12:55,262 general INFO Simulation Task Starting
+05/02/24---00:13:32,336 general INFO Simulation Mode Active
+05/02/24---00:13:32,336 general INFO Simulation Task Starting
+05/02/24---00:17:08,94 general INFO Simulation Mode Active
+05/02/24---00:17:08,94 general INFO Simulation Task Starting
+05/02/24---00:17:24,586 general INFO Simulation Mode Active
+05/02/24---00:17:24,586 general INFO Simulation Task Starting
+05/02/24---00:18:19,158 general INFO Simulation Mode Active
+05/02/24---00:18:19,158 general INFO Simulation Task Starting
+05/02/24---00:22:43,462 general INFO Simulation Mode Active
+05/02/24---00:22:43,462 general INFO Simulation Task Starting
+05/02/24---00:23:01,87 general INFO Simulation Task Executed
+05/02/24---00:23:01,87 general INFO Simulation Mode End
+05/02/24---00:25:08,868 general INFO Simulation Mode Active
+05/02/24---00:25:08,868 general INFO Simulation Task Starting
+05/02/24---00:25:26,801 general INFO Simulation Task Executed
+05/02/24---00:25:26,801 general INFO Simulation Mode End
+05/02/24---23:25:56,593 general INFO Simulation Mode Active
+05/02/24---23:25:56,594 general INFO Simulation Task Starting
+05/02/24---23:28:15,149 general INFO Simulation Mode Active
+05/02/24---23:28:15,149 general INFO Simulation Task Starting
+05/02/24---23:28:38,177 general INFO Simulation Task Executed
+05/02/24---23:28:38,177 general INFO Simulation Mode End
+05/02/24---23:31:07,288 general INFO Simulation Mode Active
+05/02/24---23:31:07,289 general INFO Simulation Task Starting
+05/02/24---23:31:10,714 general INFO Simulation Task Executed
+05/02/24---23:31:10,714 general INFO Simulation Mode End
+05/02/24---23:31:34,423 general INFO Simulation Mode Active
+05/02/24---23:31:34,423 general INFO Simulation Task Starting
+05/02/24---23:31:38,656 general INFO Simulation Task Executed
+05/02/24---23:31:38,657 general INFO Simulation Mode End
+05/02/24---23:34:22,263 general INFO Simulation Mode Active
+05/02/24---23:34:22,263 general INFO Simulation Task Starting
+05/02/24---23:34:26,557 general INFO Simulation Task Executed
+05/02/24---23:34:26,557 general INFO Simulation Mode End
+05/02/24---23:34:40,183 general INFO Simulation Mode Active
+05/02/24---23:34:40,183 general INFO Simulation Task Starting
+05/02/24---23:34:44,55 general INFO Simulation Task Executed
+05/02/24---23:34:44,55 general INFO Simulation Mode End
+05/02/24---23:35:26,366 general INFO Simulation Mode Active
+05/02/24---23:35:26,367 general INFO Simulation Task Starting
+05/02/24---23:35:30,754 general INFO Simulation Task Executed
+05/02/24---23:35:30,755 general INFO Simulation Mode End
+05/02/24---23:36:30,190 general INFO Simulation Mode Active
+05/02/24---23:36:30,190 general INFO Simulation Task Starting
+05/02/24---23:36:34,148 general INFO Simulation Task Executed
+05/02/24---23:36:34,148 general INFO Simulation Mode End
+05/02/24---23:52:56,607 general INFO Simulation Mode Active
+05/02/24---23:52:56,608 general INFO Simulation Task Starting
+05/02/24---23:53:00,537 general INFO Simulation Task Executed
+05/02/24---23:53:00,537 general INFO Simulation Mode End
+05/02/24---23:56:21,409 general INFO Simulation Mode Active
+05/02/24---23:56:21,409 general INFO Simulation Task Starting
+05/02/24---23:56:23,873 general INFO Simulation Task Executed
+05/02/24---23:56:23,873 general INFO Simulation Mode End
+05/02/24---23:57:17,424 general INFO Simulation Mode Active
+05/02/24---23:57:17,424 general INFO Simulation Task Starting
+05/02/24---23:57:19,960 general INFO Simulation Task Executed
+05/02/24---23:57:19,960 general INFO Simulation Mode End
+05/02/24---23:57:45,603 general INFO Simulation Mode Active
+05/02/24---23:57:45,603 general INFO Simulation Task Starting
+05/02/24---23:57:48,54 general INFO Simulation Task Executed
+05/02/24---23:57:48,54 general INFO Simulation Mode End
+05/02/24---23:58:44,590 general INFO Simulation Mode Active
+05/02/24---23:58:44,590 general INFO Simulation Task Starting
+05/02/24---23:58:48,433 general INFO Simulation Task Executed
+05/02/24---23:58:48,433 general INFO Simulation Mode End
+05/02/24---23:58:54,618 general INFO Simulation Update Mode Active
+05/02/24---23:58:55,267 general INFO Data Extraction Task Starting
+05/03/24---00:02:44,944 general INFO Data Extraction Task Executed
+05/03/24---00:02:44,944 general INFO Technical Data Task Starting
+05/03/24---00:03:09,931 general INFO Technical Data Task Executed
+05/03/24---00:03:09,931 general INFO Simulation Task Starting
+05/03/24---00:03:26,392 general INFO Simulation Task Executed
+05/03/24---00:04:41,346 general INFO Simulation Mode Active
+05/03/24---00:04:41,347 general INFO Simulation Task Starting
+05/03/24---00:04:58,327 general INFO Simulation Task Executed
+05/03/24---00:04:58,327 general INFO Simulation Mode End
+05/03/24---00:07:57,28 general INFO Simulation Mode Active
+05/03/24---00:07:57,28 general INFO Simulation Task Starting
+05/03/24---00:08:13,624 general INFO Simulation Task Executed
+05/03/24---00:08:13,624 general INFO Simulation Mode End
+05/03/24---00:11:52,659 general INFO Simulation Mode Active
+05/03/24---00:11:52,659 general INFO Simulation Task Starting
+05/03/24---00:12:09,779 general INFO Simulation Task Executed
+05/03/24---00:12:09,779 general INFO Simulation Mode End
+05/03/24---00:14:05,799 general INFO Simulation Mode Active
+05/03/24---00:14:05,799 general INFO Simulation Task Starting
+05/03/24---00:14:22,664 general INFO Simulation Task Executed
+05/03/24---00:14:22,664 general INFO Simulation Mode End
+05/03/24---00:34:54,28 general INFO Simulation Mode Active
+05/03/24---00:34:54,29 general INFO Simulation Task Starting
+05/03/24---00:35:10,941 general INFO Simulation Task Executed
+05/03/24---00:35:10,941 general INFO Simulation Mode End
+05/03/24---00:35:33,755 general INFO Simulation Mode Active
+05/03/24---00:35:33,755 general INFO Simulation Task Starting
+05/03/24---00:35:51,178 general INFO Simulation Task Executed
+05/03/24---00:35:51,178 general INFO Simulation Mode End
+05/03/24---00:39:35,105 general INFO Simulation Mode Active
+05/03/24---00:39:35,105 general INFO Simulation Task Starting
+05/03/24---00:39:52,135 general INFO Simulation Task Executed
+05/03/24---00:39:52,135 general INFO Simulation Mode End
+05/03/24---00:54:32,212 general INFO Simulation Mode Active
+05/03/24---00:54:32,212 general INFO Simulation Task Starting
+05/03/24---00:54:48,982 general INFO Simulation Task Executed
+05/03/24---00:54:48,982 general INFO Simulation Mode End
+05/03/24---00:56:51,477 general INFO Simulation Mode Active
+05/03/24---00:56:51,477 general INFO Simulation Task Starting
+05/03/24---00:58:12,63 general INFO Simulation Mode Active
+05/03/24---00:58:12,63 general INFO Simulation Task Starting
+05/03/24---00:59:22,208 general INFO Simulation Mode Active
+05/03/24---00:59:22,209 general INFO Simulation Task Starting
+05/03/24---01:01:24,576 general INFO Simulation Mode Active
+05/03/24---01:01:24,576 general INFO Simulation Task Starting
+05/03/24---01:04:11,997 general INFO Simulation Mode Active
+05/03/24---01:04:11,997 general INFO Simulation Task Starting
+05/03/24---01:05:46,413 general INFO Simulation Mode Active
+05/03/24---01:05:46,414 general INFO Simulation Task Starting
+05/03/24---01:07:25,538 general INFO Simulation Mode Active
+05/03/24---01:07:25,538 general INFO Simulation Task Starting
+05/03/24---01:09:27,336 general INFO Simulation Mode Active
+05/03/24---01:09:27,336 general INFO Simulation Task Starting
+05/03/24---01:09:41,727 general INFO Simulation Mode Active
+05/03/24---01:09:41,727 general INFO Simulation Task Starting
+05/03/24---01:09:49,257 general INFO Simulation Task Executed
+05/03/24---01:09:49,257 general INFO Simulation Mode End
+05/03/24---01:10:25,862 general INFO Simulation Mode Active
+05/03/24---01:10:25,863 general INFO Simulation Task Starting
+05/03/24---01:10:33,368 general INFO Simulation Task Executed
+05/03/24---01:10:33,368 general INFO Simulation Mode End
+05/03/24---01:11:38,873 general INFO Simulation Mode Active
+05/03/24---01:11:38,874 general INFO Simulation Task Starting
+05/03/24---01:11:46,507 general INFO Simulation Task Executed
+05/03/24---01:11:46,507 general INFO Simulation Mode End
+05/03/24---01:12:07,749 general INFO Simulation Mode Active
+05/03/24---01:12:07,749 general INFO Simulation Task Starting
+05/03/24---01:12:15,155 general INFO Simulation Task Executed
+05/03/24---01:12:15,155 general INFO Simulation Mode End
+05/03/24---18:13:14,323 general INFO Simulation Mode Active
+05/03/24---18:13:14,333 general INFO Simulation Task Starting
+05/03/24---18:13:21,982 general INFO Simulation Task Executed
+05/03/24---18:13:21,982 general INFO Simulation Mode End
+05/03/24---18:14:12,592 general INFO Simulation Mode Active
+05/03/24---18:14:12,593 general INFO Simulation Task Starting
+05/03/24---18:14:19,922 general INFO Simulation Task Executed
+05/03/24---18:14:19,922 general INFO Simulation Mode End
+05/03/24---18:16:09,637 general INFO Simulation Mode Active
+05/03/24---18:16:09,637 general INFO Simulation Task Starting
+05/03/24---18:16:17,264 general INFO Simulation Task Executed
+05/03/24---18:16:17,264 general INFO Simulation Mode End
+05/03/24---18:16:43,532 general INFO Simulation Mode Active
+05/03/24---18:16:43,532 general INFO Simulation Task Starting
+05/03/24---18:16:51,134 general INFO Simulation Task Executed
+05/03/24---18:16:51,134 general INFO Simulation Mode End
